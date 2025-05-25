@@ -5,11 +5,7 @@
   </h1>
 
    <!-- Anime GIF -->
-  <p align="center">
-  <img 
-    src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)" 
-    width="180px" />
-</p>
+   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="get rikked" width="180px"/>
 
   <!-- Social badges -->
   <a href="https://www.linkedin.com/in/ahmed-tabbash-915928228/" target="_blank">
