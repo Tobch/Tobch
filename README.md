@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Animated “Hi, I’m Ahmed” typing effect -->
+  <!-- Animated “Hi, I’m Ahmed Tabbash” typing effect -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;Senior+Computer+Engineering+Student" alt="Typing SVG"/>
   </h1>
@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently a **Senior Computer Engineering Student**, passionate about **Cybersecurity** (CCNA certified)  
 - ⚡ In my free time I **develop mobile & web apps**, especially games, and love to playtest them!  
-- 🌱 I’m continually exploring **Generative AI**, **Embedded Systems**, and **Secure DevOps**  
+- 🌱 I’m continually exploring **Generative AI**, **Cyber Attacks**, and **Secure DevOps**  
 
 ---
 
@@ -50,9 +50,12 @@
 
 ## 🚀 Certifications & Achievements
 
-- ![CCNA Certified](https://img.shields.io/badge/CCNA-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white)  
+- ![CCNA Certified](https://www.credly.com/badges/fbcc3d9d-197f-41f4-9bc1-541882a48015/linked_in_profile)
 - 🏅 Verilog Linter Project: Static checker for HDL designs (University course)  
-- 🏆 Hackathon finalist: Built an IoT-based smart washing machine controller  
+- 🏆 Hackathon finalist: Built an IoT-based smart washing machine controller
+- 🏆Kaggle| AI & ML App Rating Competition 2025 project,secured the second position
+- 🏅Mahara_Tech (Ethical Hacking,Computer Network Fundamentals,Introduction to network security)
+
 
 ---
 
@@ -69,11 +72,15 @@
 
 | Project                                    | Tech Stack                          | Demo / Repo                                                                 |
 | ------------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
-| **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/ahmed-tabbash/cinema-ticket-management                    |
-| **Verilog Linter (EDA Tool Design)**       | C++, Flex/Bison                     | https://github.com/ahmed-tabbash/verilog-linter                              |
-| **Android Game**                           | Android Studio, Java                | https://github.com/ahmed-tabbash/android-game                                |
-| **Embedded Washing Machine Controller**    | Verilog, QuestaSim                  | https://github.com/ahmed-tabbash/washing-machine-controller                  |
-| **Generative AI Security Research**        | Python, PyTorch                     | https://github.com/ahmed-tabbash/gai-security                                |
+| **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/Tobch/Cinema-Ticket-Management-System                     |
+| **Verilog Linter (EDA Tool Design)**       | Java, Verilog                       | https://github.com/Tobch/Verilog-Linter                                      |
+| **Python-Compiler**                        | C++                                 | https://github.com/Tobch/Python-Compiler                                     |
+| **Embedded Washing Machine Controller**    | Verilog,JavaScript,CSS,HTML,Stata   | https://github.com/Tobch/Washing-Machine-Controller                          |
+| **Pizza-Store**                            | HTML, JavaScript                    |https://github.com/Tobch/Pizza-Store                                          |
+| **App-Rating-Prediction**                  | Python, Jupyter Notebook            |https://github.com/Tobch/App-Rating-Prediction                                |
+| **Network_analyzer**                       | Python                              |https://github.com/Tobch/Network_analyzer                                     |
+
+
 
 ---
 
