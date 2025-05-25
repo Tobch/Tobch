@@ -62,9 +62,14 @@
 ## ✨ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-tabbash&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tabbash&theme=radical" alt="GitHub streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tobch&show_icons=true&theme=radical" 
+    alt="GitHub stats" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tobch&theme=radical" 
+    alt="GitHub streak" />
 </div>
+
 
 ---
 
