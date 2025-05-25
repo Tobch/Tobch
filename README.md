@@ -50,7 +50,7 @@
 
 ## 🚀 Certifications & Achievements
 
-- ![CCNA Certified](https://www.credly.com/badges/fbcc3d9d-197f-41f4-9bc1-541882a48015/linked_in_profile)
+- [CCNA Certified] (check out my linkedin profile)
 - 🏅 Verilog Linter Project: Static checker for HDL designs (University course)  
 - 🏆 Hackathon finalist: Built an IoT-based smart washing machine controller
 - 🏆Kaggle| AI & ML App Rating Competition 2025 project,secured the second position
