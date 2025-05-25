@@ -4,6 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;Senior+ComputerEngineeringStudent" alt="Typing SVG"/>
   </h1>
 
+   <!-- Anime GIF -->
+  <img src="https://media.giphy.com/media/3o6gE5aY6KvZnuconc/giphy.gif" alt="Naruto Running" width="180px"/>
+
   <!-- Social badges -->
   <a href="https://www.linkedin.com/in/ahmed-tabbash-915928228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
