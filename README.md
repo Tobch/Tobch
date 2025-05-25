@@ -4,8 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;Senior+ComputerEngineeringStudent" alt="Typing SVG"/>
   </h1>
 
-   <!-- Anime GIF -->
+   <!-- GIF -->
+   <h1>
    <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="get rikked" width="180px"/>
+   <h1>
 
   <!-- Social badges -->
   <a href="https://www.linkedin.com/in/ahmed-tabbash-915928228/" target="_blank">
