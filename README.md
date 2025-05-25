@@ -88,7 +88,7 @@
 | **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/Tobch/Cinema-Ticket-Management-System                     |
 | **Verilog Linter (EDA Tool Design)**       | Java, Verilog                       | https://github.com/Tobch/Verilog-Linter                                      |
 | **Python-Compiler**                        | C++                                 | https://github.com/Tobch/Python-Compiler                                     |
-| **Embedded Washing Machine Controller**    | Verilog,JavaScript,CSS,HTML,Stata   | https://github.com/Tobch/Washing-Machine-Controller                          |
+| **P2P-Multi-User-Chatting-Application**    | Python,MongoDB                      | https://github.com/Tobch/P2P-Multi-User-Chatting-Application                 |
 | **Pizza-Store**                            | HTML, JavaScript                    |https://github.com/Tobch/Pizza-Store                                          |
 | **App-Rating-Prediction**                  | Python, Jupyter Notebook            |https://github.com/Tobch/App-Rating-Prediction                                |
 | **Network_analyzer**                       | Python                              |https://github.com/Tobch/Network_analyzer                                     |
