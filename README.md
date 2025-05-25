@@ -5,7 +5,12 @@
   </h1>
 
    <!-- Anime GIF -->
-  <img src="https://media.giphy.com/media/3o6gE5aY6KvZnuconc/giphy.gif" alt="Naruto Running" width="180px"/>
+  <p align="center">
+  <img 
+    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
+    alt="Attack on Titan - Eren Transformation" 
+    width="180px" />
+</p>
 
   <!-- Social badges -->
   <a href="https://www.linkedin.com/in/ahmed-tabbash-915928228/" target="_blank">
