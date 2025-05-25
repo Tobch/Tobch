@@ -1,86 +1,84 @@
-
-
-###
-
 <div align="center">
-  <a href="[https://www.linkedin.com/in/moisis-mounir-72153a280/](https://www.linkedin.com/in/ahmed-tabbash-915928228/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <!-- Animated “Hi, I’m Ahmed” typing effect -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;Senior+Computer+Engineering+Student" alt="Typing SVG"/>
+  </h1>
+
+  <!-- Social badges -->
+  <a href="https://www.linkedin.com/in/ahmed-tabbash-915928228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ahmedtobch2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/ahmed-tabbash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">Hi 👋! My name is Ahmed Tabbash</h1>
+## 👨‍💻 About Me
 
-###
+- 🔭 I’m currently a **Senior Computer Engineering Student**, passionate about **Cybersecurity** (CCNA certified)  
+- ⚡ In my free time I **develop mobile & web apps**, especially games, and love to playtest them!  
+- 🌱 I’m continually exploring **Generative AI**, **Embedded Systems**, and **Secure DevOps**  
 
-<h3 align="center">Senior Computer Engineering Student</h3>
+---
 
-###
+## 🛠 Languages & Tools
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Verilog-FF2F92.svg?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-###
+---
 
-<p align="left">- 🔭 I’m working as Computer Engineering and Software Systems student,my passion is Cybersecurity (CCNA certified) <br>- ⚡ In my free time I like to develop apps like games and play them ;) </p>
+## 🚀 Certifications & Achievements
 
-###
+- ![CCNA Certified](https://img.shields.io/badge/CCNA-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white)  
+- 🏅 Verilog Linter Project: Static checker for HDL designs (University course)  
+- 🏆 Hackathon finalist: Built an IoT-based smart washing machine controller  
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## ✨ GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="kali linux logo" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-tabbash&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tabbash&theme=radical" alt="GitHub streak"/>
 </div>
 
-###
+---
 
+## 📂 Selected Projects
 
-###
+| Project                                    | Tech Stack                          | Demo / Repo                                                                 |
+| ------------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
+| **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/ahmed-tabbash/cinema-ticket-management                    |
+| **Verilog Linter (EDA Tool Design)**       | C++, Flex/Bison                     | https://github.com/ahmed-tabbash/verilog-linter                              |
+| **Android Game**                           | Android Studio, Java                | https://github.com/ahmed-tabbash/android-game                                |
+| **Embedded Washing Machine Controller**    | Verilog, QuestaSim                  | https://github.com/ahmed-tabbash/washing-machine-controller                  |
+| **Generative AI Security Research**        | Python, PyTorch                     | https://github.com/ahmed-tabbash/gai-security                                |
+
+---
+
+## 📫 How to Reach Me
+
+- 📩 **Email:** ahmedtobch2002@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-tabbash-915928228/  
+- 🤝 **Let’s connect and build secure, cutting-edge systems together!**
