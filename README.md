@@ -7,8 +7,7 @@
    <!-- Anime GIF -->
   <p align="center">
   <img 
-    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
-    alt="Attack on Titan - Eren Transformation" 
+    src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)" 
     width="180px" />
 </p>
 
