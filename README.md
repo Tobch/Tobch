@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Animated    “Hi, I’m Ahmed Tabbash” typing effect -->
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;Senior+ComputerEngineering+Student" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;I'am Senior ComputerEngineering Student" alt="Typing SVG"/>
   </h1>
 
   <!-- Social badges -->
