@@ -85,6 +85,7 @@
 | ------------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
 | **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/Tobch/Cinema-Ticket-Management-System                     |
 | **Verilog Linter (EDA Tool Design)**       | Java, Verilog                       | https://github.com/Tobch/Verilog-Linter                                      |
+| **1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog**       | Verilog                             | https://github.com/Tobch/1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog|
 | **Python-Compiler**                        | C++                                 | https://github.com/Tobch/Python-Compiler                                     |
 | **P2P-Multi-User-Chatting-Application**    | Python,MongoDB                      | https://github.com/Tobch/P2P-Multi-User-Chatting-Application                 |
 | **Pizza-Store**                            | HTML, JavaScript                    |https://github.com/Tobch/Pizza-Store                                          |
