@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Animated    “Hi, I’m Ahmed Tabbash” typing effect -->
+  <!-- Animated “Hi, I’m Ahmed Tabbash” typing effect -->
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;CyberSecurity+enthusiastic+%F0%9F%9B%A1%EF%B8%8F+%F0%9F%94%90" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;CyberSecurity+%26+Network+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F+%F0%9F%94%90" alt="Typing SVG"/>
   </h1>
 
    <!-- GIF -->
@@ -27,9 +27,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently a **Senior Computer Engineering Student**, passionate about **Cybersecurity** (CCNA certified)  
-- ⚡ In my free time I **develop mobile & web apps**, especially games, and love to playtest them!  
-- 🌱 I’m continually exploring **Generative AI**, **Cyber Attacks**, and **Secure DevOps**  
+- 🎓 I’m currently a **Senior Computer Engineering Student** specializing in **Cybersecurity, Networking, and Network Security**  
+- 🔐 Skilled in **penetration testing, secure network design, and defensive strategies**, with hands-on experience using **Kali Linux, Wireshark, and Cisco technologies**  
+- ⚡ Passionate about building **secure infrastructures** and researching **cyber threats, AI security applications, and cryptography**  
+- 🌱 Always learning more about **ethical hacking, intrusion detection systems, and advanced network protocols**  
+- 💡 I also enjoy **developing mobile & web apps**, blending software development with strong security practices  
 
 ---
 
@@ -49,6 +51,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Verilog-FF2F92.svg?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -57,12 +61,12 @@
 
 ## 🚀 Certifications & Achievements
 
-- [CCNA Certified] (check out my linkedin profile)
-- 🏅 Verilog Linter Project: Static checker for HDL designs (University course)  
-- 🏆 Hackathon finalist: Built an IoT-based smart washing machine controller
-- 🏆Kaggle| AI & ML App Rating Competition 2025 project,secured the second position
-- 🏅Mahara_Tech (Ethical Hacking,Computer Network Fundamentals,Introduction to network security)
-
+- ✅ **CCNA Certified** (Cisco Networking & Security Fundamentals)  
+- 🏅 Completed **Mahara_Tech Tracks**: Ethical Hacking, Computer Network Fundamentals, Introduction to Network Security  
+- 🏆 Hackathon Finalist: Designed an IoT-based **secure smart washing machine controller**  
+- 🏆 **2nd Place** in Kaggle AI & ML App Rating Competition 2025  
+- 🛡️ Hands-on experience with **penetration testing labs, firewall configuration, and secure network simulation projects**  
+- 🏅 University Project: **Verilog Linter Tool** (Static checker for HDL designs)  
 
 ---
 
@@ -76,7 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ---
 
 ## 📂 Project Samples
@@ -87,12 +90,10 @@
 | **Verilog Linter (EDA Tool Design)**       | Java, Verilog                       | https://github.com/Tobch/Verilog-Linter                                      |
 | **1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog**       | Verilog                             | https://github.com/Tobch/1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog|
 | **Python-Compiler**                        | C++                                 | https://github.com/Tobch/Python-Compiler                                     |
-| **P2P-Multi-User-Chatting-Application**    | Python,MongoDB                      | https://github.com/Tobch/P2P-Multi-User-Chatting-Application                 |
-| **Pizza-Store**                            | HTML, JavaScript                    |https://github.com/Tobch/Pizza-Store                                          |
-| **App-Rating-Prediction**                  | Python, Jupyter Notebook            |https://github.com/Tobch/App-Rating-Prediction                                |
-| **Network_analyzer**                       | Python                              |https://github.com/Tobch/Network_analyzer                                     |
-
-
+| **P2P-Multi-User-Chatting-Application**    | Python, MongoDB                     | https://github.com/Tobch/P2P-Multi-User-Chatting-Application                 |
+| **Pizza-Store**                            | HTML, JavaScript                    | https://github.com/Tobch/Pizza-Store                                         |
+| **App-Rating-Prediction**                  | Python, Jupyter Notebook            | https://github.com/Tobch/App-Rating-Prediction                                |
+| **Network_Analyzer**                       | Python, Wireshark, Socket Programming| https://github.com/Tobch/Network_analyzer                                     |
 
 ---
 
