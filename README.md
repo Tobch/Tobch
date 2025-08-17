@@ -101,9 +101,7 @@
 
 ---
 
-## 📫 How to Reach Me
-
-- 📩 **Email:** ahmedtobch2002@gmail.com  
-- 🔗 **LinkedIn:** [Ahmed Tabbash](https://www.linkedin.com/in/ahmed-tabbash-915928228/)  
-- 🖥️ **GitHub:** [Tobch](https://github.com/Tobch)  
-- 🤝 Let’s collaborate on **Cybersecurity, Networking, and AI-powered Security Projects!**  
+📫 How to Reach Me 
+- 📩 **Email:** ahmedtobch2002@gmail.com 
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-tabbash-915928228/
+- 🤝 **Let’s connect and build secure, cutting-edge systems together!**
