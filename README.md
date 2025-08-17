@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Animated “Hi, I’m Ahmed Tabbash” typing effect -->
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;CyberSecurity+%26+Network+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F+%F0%9F%94%90" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;CyberSecurity+%26+Network+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F+%F0%9F%94%90;Computer+Engineering+Student+%F0%9F%92%BB" alt="Typing SVG"/>
   </h1>
 
    <!-- GIF -->
@@ -27,11 +27,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I’m currently a **Senior Computer Engineering Student** specializing in **Cybersecurity, Networking, and Network Security**  
-- 🔐 Skilled in **penetration testing, secure network design, and defensive strategies**, with hands-on experience using **Kali Linux, Wireshark, and Cisco technologies**  
-- ⚡ Passionate about building **secure infrastructures** and researching **cyber threats, AI security applications, and cryptography**  
-- 🌱 Always learning more about **ethical hacking, intrusion detection systems, and advanced network protocols**  
-- 💡 I also enjoy **developing mobile & web apps**, blending software development with strong security practices  
+- 🎓 I’m a **Senior Computer Engineering & Software Systems Student** passionate about **Cybersecurity, Networking, Artificial Intelligence, and Telecommunications**  
+- 🔐 Skilled in **network security, penetration testing, secure system design, firewalls, IDS/IPS, and vulnerability assessment**  
+- ⚡ Strong background in **software development**, building secure apps for **web, desktop, and mobile** with a **security-first approach**  
+- 🌱 Continuously learning about **ethical hacking, cyber threat intelligence, and advanced network defense strategies**  
+- 🌍 Fluent in **Arabic (native Egyptian dialect)** — used at home, school, and community, and in **English (professional/academic)** for university, research, and technical projects  
+- 💡 Interested in applying **AI and machine learning** for **cybersecurity, anomaly detection, and predictive defense systems**  
 
 ---
 
@@ -62,11 +63,29 @@
 ## 🚀 Certifications & Achievements
 
 - ✅ **CCNA Certified** (Cisco Networking & Security Fundamentals)  
-- 🏅 Completed **Mahara_Tech Tracks**: Ethical Hacking, Computer Network Fundamentals, Introduction to Network Security  
-- 🏆 Hackathon Finalist: Designed an IoT-based **secure smart washing machine controller**  
-- 🏆 **2nd Place** in Kaggle AI & ML App Rating Competition 2025  
-- 🛡️ Hands-on experience with **penetration testing labs, firewall configuration, and secure network simulation projects**  
-- 🏅 University Project: **Verilog Linter Tool** (Static checker for HDL designs)  
+- 🏅 Completed **Mahara_Tech Tracks**:  
+  - Ethical Hacking  
+  - Computer Network Fundamentals  
+  - Introduction to Network Security  
+- 🛡️ Hands-on with **penetration testing labs, firewall configuration, IDS/IPS setups, and secure network simulations**  
+- 🏆 Hackathon Finalist: Developed an IoT-based **secure smart washing machine controller**  
+- 🏆 **2nd Place** in Kaggle AI & ML App Rating Competition (2025)  
+- 🎓 Strong academic foundation in **Operating Systems, Data Structures, Control Systems, Compiler Design, and Embedded Systems**  
+
+---
+
+## 📂 Project Samples
+
+| Project                                    | Tech Stack                          | Demo / Repo                                                                 |
+| ------------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
+| **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/Tobch/Cinema-Ticket-Management-System                     |
+| **Verilog Linter (EDA Tool Design)**       | Java, Verilog                       | https://github.com/Tobch/Verilog-Linter                                      |
+| **1-Wire Protocol Transceiver**            | Verilog                             | https://github.com/Tobch/1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog|
+| **Python Compiler**                        | C++                                 | https://github.com/Tobch/Python-Compiler                                     |
+| **P2P Multi-User Chat App**                | Python, MongoDB                     | https://github.com/Tobch/P2P-Multi-User-Chatting-Application                 |
+| **Pizza Store**                            | HTML, JavaScript                    | https://github.com/Tobch/Pizza-Store                                         |
+| **App Rating Prediction**                  | Python, Jupyter Notebook            | https://github.com/Tobch/App-Rating-Prediction                               |
+| **Network Analyzer**                       | Python, Wireshark, Socket Programming| https://github.com/Tobch/Network_analyzer                                     |
 
 ---
 
@@ -82,23 +101,9 @@
 
 ---
 
-## 📂 Project Samples
-
-| Project                                    | Tech Stack                          | Demo / Repo                                                                 |
-| ------------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
-| **Cinema Ticket Management System**        | C#, SQL Server, WinForms            | https://github.com/Tobch/Cinema-Ticket-Management-System                     |
-| **Verilog Linter (EDA Tool Design)**       | Java, Verilog                       | https://github.com/Tobch/Verilog-Linter                                      |
-| **1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog**       | Verilog                             | https://github.com/Tobch/1-Wire-protocol-Transceiver-Module-Implementation-using-Verilog|
-| **Python-Compiler**                        | C++                                 | https://github.com/Tobch/Python-Compiler                                     |
-| **P2P-Multi-User-Chatting-Application**    | Python, MongoDB                     | https://github.com/Tobch/P2P-Multi-User-Chatting-Application                 |
-| **Pizza-Store**                            | HTML, JavaScript                    | https://github.com/Tobch/Pizza-Store                                         |
-| **App-Rating-Prediction**                  | Python, Jupyter Notebook            | https://github.com/Tobch/App-Rating-Prediction                                |
-| **Network_Analyzer**                       | Python, Wireshark, Socket Programming| https://github.com/Tobch/Network_analyzer                                     |
-
----
-
 ## 📫 How to Reach Me
 
 - 📩 **Email:** ahmedtobch2002@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-tabbash-915928228/  
-- 🤝 **Let’s connect and build secure, cutting-edge systems together!**
+- 🔗 **LinkedIn:** [Ahmed Tabbash](https://www.linkedin.com/in/ahmed-tabbash-915928228/)  
+- 🖥️ **GitHub:** [Tobch](https://github.com/Tobch)  
+- 🤝 Let’s collaborate on **Cybersecurity, Networking, and AI-powered Security Projects!**  
