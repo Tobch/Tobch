@@ -24,13 +24,12 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently a **Senior Computer Engineering Student**, passionate about **Cybersecurity** (CCNA certified)  
-- ⚡ In my free time I **develop mobile & web apps**, especially games, and love to playtest them!  
-- 🌱 I’m continually exploring **Generative AI**, **Cyber Attacks**, and **Secure DevOps**  
-
+👨‍💻 About Me
+🔭 I’m currently a Senior Computer Engineering Student specializing in Cybersecurity, Network Defense, and Real-Time Embedded Systems.
+🛡️ I’m actively building NetGuard, an Enterprise-Grade Next-Gen Intrusion Prevention System (NGIPS) featuring Zero Trust Architecture, Deep Packet Inspection (DPI), Active Defense (Honeyports), and JA3 Malware Fingerprinting using Python and PyQt/PySide6.
+🎯 I am actively pursuing roles in Penetration Testing and offensive/defensive security engineering.
+⚡ I also have deep hands-on experience with lower-level hardware, including designing RTOS context switching on ARM Cortex-M4 processors using the IAR Embedded Workbench.
+🌱 I’m continually exploring Advanced Threat Hunting, Generative AI, and complex software architecture (from algorithms and data structures to context-free languages).
 ---
 
 ## 🛠 Languages & Tools
