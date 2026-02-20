@@ -23,7 +23,7 @@
 </a>
 </div>
 
----
+
 🔭 I’m currently a Senior Computer Engineering Student specializing in Cybersecurity, Network Defense, and Real-Time Embedded Systems.<br>
 
 🛡️ I’m actively building NetGuard, an Enterprise-Grade Next-Gen Intrusion Prevention System (NGIPS) featuring Zero Trust Architecture, Deep Packet Inspection (DPI), Active Defense (Honeyports), and JA3 Malware Fingerprinting using Python and PyQt/PySide6.<br>
@@ -34,7 +34,6 @@
 
 🌱 I’m continually exploring Advanced Threat Hunting, Generative AI, and complex software architecture (from algorithms and data structures to context-free languages).
 
----
 
 ## 🛠 Languages & Tools
 
