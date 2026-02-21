@@ -52,10 +52,11 @@ I build practical security systems and low-level embedded software. Currently de
 ## Projects (selected)
 | Project | Tech | Repo / Demo |
 |---|---:|---|
+| NetGuard | Python | https://github.com/Tobch/NetGuard |
 | Cinema Ticket Management System | C#, SQL Server, WinForms | https://github.com/Tobch/Cinema-Ticket-Management-System |
 | Verilog Linter (EDA tool) | Java, Verilog | https://github.com/Tobch/Verilog-Linter |
 | Python Compiler | C++ | https://github.com/Tobch/Python-Compiler |
-| Network Analyzer | Python | https://github.com/Tobch/Network_analyzer |
+
 
 ---
 
