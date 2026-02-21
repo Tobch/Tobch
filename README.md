@@ -69,19 +69,14 @@ I build practical security systems and low-level embedded software. Currently de
 ---
 
 ## GitHub stats & fallback
-**Primary (may show “Error Fetching Resource” if rate-limited):**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tobch&show_icons=true&theme=radical)
 
-**Fallbacks (add these below if the primary fails):**
-- Activity chart: `https://ghchart.rshah.org/Tobch`  
-  `![GitHub chart](https://ghchart.rshah.org/Tobch)`
-- Quick badges (stars, forks, followers):
-  - `https://img.shields.io/github/stars/Tobch?style=for-the-badge&logo=github`  
-  - `https://img.shields.io/github/forks/Tobch?style=for-the-badge&logo=github`
+<img src="https://github-readme-stats.vercel.app/api?username=Tobch&show_icons=true&theme=radical" alt="GitHub Stats" />
+ 
+  ![GitHub activity chart](https://ghchart.rshah.org/Tobch)`
 
-**Pro tip (robust):** deploy your own copy of `anuraghazra/github-readme-stats` to Vercel (or Render). That removes shared rate limits and the error disappears.
-
----
+  ![Stars](https://img.shields.io/github/stars/Tobch?style=for-the-badge&logo=github)
+  ![Forks](https://img.shields.io/github/forks/Tobch?style=for-the-badge&logo=github)
+  ![Followers](https://img.shields.io/github/followers/Tobch?style=for-the-badge)
 
 ## Contact
 - Email: ahmedtobch2002@gmail.com  
