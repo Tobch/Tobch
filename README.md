@@ -63,10 +63,6 @@ I build practical security systems and low-level embedded software. Currently de
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tobch&theme=tokyonight" alt="Tobch's GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tobch&theme=tokyonight" alt="Tobch's Activity Graph" width="100%" />
 </div>
 
