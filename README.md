@@ -58,8 +58,8 @@ I build practical security systems and low-level embedded software. Currently de
 
 ## GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tobch's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobch&layout=compact&theme=tokyonight" alt="Tobch's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-kfre.vercel.app/api?username=Tobch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tobch's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-kfre.vercel.app/api/top-langs/?username=Tobch&layout=compact&theme=tokyonight" alt="Tobch's Top Languages" width="48%" />
 </div>
 <br>
 <div align="center">
