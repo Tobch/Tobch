@@ -1,13 +1,10 @@
 <div align="center">
-  <!-- Typing SVG -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0077B5&width=700&lines=Hi+%F0%9F%91%8B+I%27m+Ahmed+Tabbash;CyberSecurity+enthusiast+%F0%9F%9B%A1%EF%B8%8F+%F0%9F%94%90" alt="typing"/>
   </h1>
 
-  <!-- Gif -->
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="gif" width="160" />
 
-  <!-- Social badges -->
   <p>
     <a href="https://www.linkedin.com/in/ahmed-tabbash-915928228/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -57,6 +54,21 @@ I build practical security systems and low-level embedded software. Currently de
 | Verilog Linter (EDA tool) | Java, Verilog | https://github.com/Tobch/Verilog-Linter |
 | Python Compiler | C++ | https://github.com/Tobch/Python-Compiler |
 
+---
+
+## GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tobch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Tobch's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobch&layout=compact&theme=tokyonight" alt="Tobch's Top Languages" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tobch&theme=tokyonight" alt="Tobch's GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tobch&theme=tokyonight" alt="Tobch's Activity Graph" width="100%" />
+</div>
 
 ---
 
@@ -67,16 +79,6 @@ I build practical security systems and low-level embedded software. Currently de
 - Verilog Linter — static HDL checker (university EDA project)
 
 ---
-
-## GitHub stats & fallback
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tobch&show_icons=true&theme=radical" alt="GitHub Stats" />
- 
-  ![GitHub activity chart](https://ghchart.rshah.org/Tobch)`
-
-  ![Stars](https://img.shields.io/github/stars/Tobch?style=for-the-badge&logo=github)
-  ![Forks](https://img.shields.io/github/forks/Tobch?style=for-the-badge&logo=github)
-  ![Followers](https://img.shields.io/github/followers/Tobch?style=for-the-badge)
 
 ## Contact
 - Email: ahmedtobch2002@gmail.com  
